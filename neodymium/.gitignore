@@ -1,0 +1,6 @@
+.theos/
+packages/
+.DS_Store
+Libs/quickjs
+Libs/utf8proc
+Libs/stb_image.h

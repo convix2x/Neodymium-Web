@@ -1,0 +1,8 @@
+Package: je.nya.coni.neodymium
+Name: neodymium
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: Coni S
+Author: Coni S
+Section: Utilities
